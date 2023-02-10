@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "52DBE5BA-6FA7-45A2-8739-95EFC32BF0A3"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C1BB474B-ECD6-459B-808F-D4A18F6A48C9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CustomTabbarProgramatical/View/CustomTabbar.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "setup()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "14B89D5A-DEC3-46A2-A77F-DD279F36C668"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CustomTabbarProgramatical/Controller/CustomTabBarController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "73"
+            endingLineNumber = "73"
+            landmarkName = "addCustomBarView()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D0E303DF-5C19-4BDC-A25F-4FC44969CFCB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CustomTabbarProgramatical/View/CustomTabbar.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "59"
+            endingLineNumber = "59"
+            landmarkName = "addSubview()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B5EBF4B4-A445-4C17-9B34-C9FD78D38E78"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CustomTabbarProgramatical/View/CustomTabbar.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "64"
+            endingLineNumber = "64"
+            landmarkName = "addSubview()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F69FE407-6C09-4700-848F-A22399A11EAA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CustomTabbarProgramatical/View/CustomTabbar.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "73"
+            endingLineNumber = "73"
+            landmarkName = "addSubview()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A0A356E5-7A03-43C5-A932-B61E1C381061"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CustomTabbarProgramatical/Controller/CustomTabBarController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "62"
+            endingLineNumber = "62"
+            landmarkName = "templateNavigationController(rootViewController:selectedImage:unselectedImage:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CA802E27-36A5-4D98-A52E-B17968337C25"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CustomTabbarProgramatical/Controller/CustomTabBarController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "70"
+            endingLineNumber = "70"
+            landmarkName = "templateNavigationController(rootViewController:selectedImage:unselectedImage:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7BD94202-8F7D-4B47-A6AE-28F6512FD0F9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CustomTabbarProgramatical/View/CustomTabbar.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "112"
+            endingLineNumber = "112"
+            landmarkName = "switchAction(sender:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E21B265F-9D18-4E47-B273-C641452848F5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CustomTabbarProgramatical/View/CustomTabbar.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "98"
+            endingLineNumber = "98"
+            landmarkName = "switchAction(sender:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "853ACD7F-50D2-495A-8E30-1DE3FF3D69DE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CustomTabbarProgramatical/View/CustomTabbar.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "99"
+            endingLineNumber = "99"
+            landmarkName = "switchAction(sender:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "89221968-8933-467D-A020-B634DAC9FEF7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CustomTabbarProgramatical/Controller/CustomTabBarController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "tabIndex(index:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CEC022A7-EDD8-41BB-BF58-EAB6CFBB4761"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CustomTabbarProgramatical/View/CustomTabbar.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "CustomTabbar"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "CEC022A7-EDD8-41BB-BF58-EAB6CFBB4761 - ddcdb7544e150e13"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CustomTabbarProgramatical.CustomTabbar.delegate.getter : Swift.Optional&lt;CustomTabbarProgramatical.TabObserverDelegate&gt;"
+                  moduleName = "CustomTabbarProgramatical"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/erkankizgin/Desktop/IOS_Projects/UI_Component_Examples/CustomTabbarProgramatical/CustomTabbarProgramatical/View/CustomTabbar.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "84">
+               </Location>
+               <Location
+                  uuid = "CEC022A7-EDD8-41BB-BF58-EAB6CFBB4761 - 25b403091e94761f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CustomTabbarProgramatical.CustomTabbar.delegate.setter : Swift.Optional&lt;CustomTabbarProgramatical.TabObserverDelegate&gt;"
+                  moduleName = "CustomTabbarProgramatical"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/erkankizgin/Desktop/IOS_Projects/UI_Component_Examples/CustomTabbarProgramatical/CustomTabbarProgramatical/View/CustomTabbar.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "CEC022A7-EDD8-41BB-BF58-EAB6CFBB4761 - 6660d5b18ee8a611"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CustomTabbarProgramatical.CustomTabbar.delegate.modify : Swift.Optional&lt;CustomTabbarProgramatical.TabObserverDelegate&gt;"
+                  moduleName = "CustomTabbarProgramatical"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/erkankizgin/Desktop/IOS_Projects/UI_Component_Examples/CustomTabbarProgramatical/CustomTabbarProgramatical/View/CustomTabbar.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "CEC022A7-EDD8-41BB-BF58-EAB6CFBB4761 - 70069ef6434fd76f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CustomTabbarProgramatical.CustomTabbar.delegate.modify : Swift.Optional&lt;CustomTabbarProgramatical.TabObserverDelegate&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "CustomTabbarProgramatical"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/erkankizgin/Desktop/IOS_Projects/UI_Component_Examples/CustomTabbarProgramatical/CustomTabbarProgramatical/View/CustomTabbar.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "CEC022A7-EDD8-41BB-BF58-EAB6CFBB4761 - 474f60bfcb5ec266"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CustomTabbarProgramatical.CustomTabbar.init(width: CoreGraphics.CGFloat, height: CoreGraphics.CGFloat) -&gt; CustomTabbarProgramatical.CustomTabbar"
+                  moduleName = "CustomTabbarProgramatical"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/erkankizgin/Desktop/IOS_Projects/UI_Component_Examples/CustomTabbarProgramatical/CustomTabbarProgramatical/View/CustomTabbar.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "276">
+               </Location>
+               <Location
+                  uuid = "CEC022A7-EDD8-41BB-BF58-EAB6CFBB4761 - cbf26af191cc97fb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CustomTabbarProgramatical.CustomTabbar.init(frame: __C.CGRect) -&gt; CustomTabbarProgramatical.CustomTabbar"
+                  moduleName = "CustomTabbarProgramatical"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/erkankizgin/Desktop/IOS_Projects/UI_Component_Examples/CustomTabbarProgramatical/CustomTabbarProgramatical/View/CustomTabbar.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "272">
+               </Location>
+               <Location
+                  uuid = "CEC022A7-EDD8-41BB-BF58-EAB6CFBB4761 - f6a6265c0c14247"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CustomTabbarProgramatical.CustomTabbar.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;CustomTabbarProgramatical.CustomTabbar&gt;"
+                  moduleName = "CustomTabbarProgramatical"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/erkankizgin/Desktop/IOS_Projects/UI_Component_Examples/CustomTabbarProgramatical/CustomTabbarProgramatical/View/CustomTabbar.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "240">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "47D4E9FE-6EBF-441B-95F0-D3BD95920175"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CustomTabbarProgramatical/Controller/CustomTabBarController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "tabIndex(index:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "34D75CF8-FC4D-46AF-AEB9-4DF9BAE0404C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CustomTabbarProgramatical/Controller/TableVCs/CategoriesTableVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
